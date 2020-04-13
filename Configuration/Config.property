@@ -1,0 +1,9 @@
+chromeDriver = C:\\Users\\akhildarling\\Documents\\cts\\MiniProject\\JPetStore_Cucumber\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver = C:\\Users\\akhildarling\\Documents\\cts\\MiniProject\\JPetStore_Cucumber\\src\\test\\resources\\binaries\\geckodriver.exe
+
+JpetStore_URL = https://petstore.octoperf.com/actions/Catalog.action
+
+
+
+Excelpath = C:\\Users\\akhildarling\\Documents\\cts\\MiniProject\\JPetStore_Cucumber\\src\\test\\resources\\Excel\\JPetStore_data2.xlsx
