@@ -1,0 +1,36 @@
+2020-04-13 13:19:46,260 - StepDefinition -INFO - Chrome Opened
+2020-04-13 13:19:50,720 - StepDefinition -INFO - Valid Credentials Entered
+2020-04-13 13:19:54,259 - StepDefinition -INFO - clicked on Dogs Menu
+2020-04-13 13:19:55,733 - StepDefinition -INFO - Selected a product
+2020-04-13 13:19:57,451 - StepDefinition -INFO - selected product added to card
+2020-04-13 13:19:57,456 - StepDefinition -INFO - Processing Payment
+2020-04-13 13:20:01,126 - StepDefinition -INFO - Payment Done
+2020-04-13 13:20:02,743 - StepDefinition -INFO - Returned to Main Menu
+2020-04-13 13:20:04,511 - StepDefinition -INFO - Signed Out
+2020-04-13 13:20:06,878 - StepDefinition -INFO - Browser Closed
+2020-04-13 13:20:19,179 - StepDefinition -INFO - Chrome Opened
+2020-04-13 13:20:21,036 - StepDefinition -INFO - Invalid Credentials Entered
+2020-04-13 13:20:22,525 - StepDefinition -INFO - LogOut failed for Invalid Credentials
+2020-04-13 13:20:23,076 - StepDefinition -INFO - Screenshot taken for Invalid credentials
+2020-04-13 13:20:25,569 - StepDefinition -INFO - Browser Closed
+2020-04-13 13:20:38,043 - StepDefinition -INFO - Chrome Opened
+2020-04-13 13:20:40,081 - StepDefinition -INFO - Valid Credentials Entered
+2020-04-13 13:20:43,074 - StepDefinition -INFO - clicked on Dogs Menu
+2020-04-13 13:20:44,488 - StepDefinition -INFO - Selected a product
+2020-04-13 13:20:45,859 - StepDefinition -INFO - selected product added to card
+2020-04-13 13:20:50,645 - StepDefinition -INFO - Item from Birds menu added to Cart
+2020-04-13 13:20:55,535 - StepDefinition -INFO - Item from Fish menu added to Cart
+2020-04-13 13:20:55,539 - StepDefinition -INFO - Processing Payment
+2020-04-13 13:20:59,284 - StepDefinition -INFO - Payment Done
+2020-04-13 13:21:00,902 - StepDefinition -INFO - Returned to Main Menu
+2020-04-13 13:21:02,650 - StepDefinition -INFO - Signed Out
+2020-04-13 13:21:05,046 - StepDefinition -INFO - Browser Closed
+2020-04-13 13:21:17,600 - StepDefinition -INFO - Chrome Opened
+2020-04-13 13:21:19,504 - StepDefinition -INFO - Valid Credentials Entered
+2020-04-13 13:21:22,083 - StepDefinition -INFO - Item:persian Searched
+2020-04-13 13:21:23,939 - StepDefinition -INFO - Item : 'Persian' from Search result added to Cart
+2020-04-13 13:21:23,941 - StepDefinition -INFO - Processing Payment
+2020-04-13 13:21:27,542 - StepDefinition -INFO - Payment Done
+2020-04-13 13:21:29,076 - StepDefinition -INFO - Returned to Main Menu
+2020-04-13 13:21:30,772 - StepDefinition -INFO - Signed Out
+2020-04-13 13:21:33,245 - StepDefinition -INFO - Browser Closed

@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("JPetStore_Login4.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("JPetStore_SearchingItem.feature");
 formatter.feature({
   "line": 2,
   "name": "JPetStoreLogin searching an item and purchasing",
@@ -134,7 +134,7 @@ formatter.match({
   "location": "StepDefinition.open_browser_and_start_application()"
 });
 formatter.result({
-  "duration": 14384492400,
+  "duration": 12430046900,
   "status": "passed"
 });
 formatter.match({
@@ -147,42 +147,42 @@ formatter.match({
   "location": "StepDefinition.i_enter_valid(String)"
 });
 formatter.result({
-  "duration": 2766931100,
+  "duration": 1900597200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_able_to_login()"
 });
 formatter.result({
-  "duration": 2768512700,
+  "duration": 1622417300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_searches_for_an_item()"
 });
 formatter.result({
-  "duration": 3783343000,
+  "duration": 2810316400,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.payment_has_to_be_done()"
 });
 formatter.result({
-  "duration": 4394448300,
+  "duration": 3601713200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_has_to_sign_out()"
 });
 formatter.result({
-  "duration": 3523869800,
+  "duration": 3228990200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.application_should_be_closed()"
 });
 formatter.result({
-  "duration": 2289666700,
+  "duration": 2582462200,
   "status": "passed"
 });
 });
